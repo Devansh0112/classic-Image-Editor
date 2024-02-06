@@ -1,15 +1,5 @@
 # Image Editor
 
-
-
-
-## Introduction
-
-This project, titled "Image Editor" is a Java project that implements a simple image editing
-application following the Model-View-Controller (MVC) architectural pattern. The project comprises
-various components, each serving a specific role in the application. This README provides an
-overview of the key components and their functionalities.
-
 ## Components
 
 ### 1. ImageEditor
